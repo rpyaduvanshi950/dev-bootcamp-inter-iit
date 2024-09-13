@@ -1,0 +1,17 @@
+.dashboard {
+    padding: 20px;
+    background-color: #2BEBC8;
+    display: grid;
+    grid-template-columns: repeat(2, .5fr);
+    gap: 20px;
+    width: 70%;
+    min-height: 200px;
+    align-items: center;
+    border-radius: 10px;
+  }
+  .dashimage{
+    width: 95%;
+  }
+  .dashimage img{
+    width: 100%;
+  }
