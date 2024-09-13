@@ -1,6 +1,6 @@
 import React from 'react'
-import Dash from '../assets/DashBoard.png'
-import '../Header/Header.css'
+import Dash from '../../assets/DashBoard.png'
+import './Header.css'
 function Header() {
   return (
     <div className="dashboard">

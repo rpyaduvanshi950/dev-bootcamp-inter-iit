@@ -1,6 +1,6 @@
 import React from 'react'
 import './SideMenu.css'
-import logo from '../assets/logo.png'
+import logo from '../../assets/logo.png'
 import { FaChartBar, FaShoppingCart, FaUser, FaCog, FaQuestionCircle, FaComments } from 'react-icons/fa';
 function SideMenu() {
   return (

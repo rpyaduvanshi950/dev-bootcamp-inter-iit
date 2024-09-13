@@ -9,7 +9,7 @@ function DashboardMain() {
     <SideMenu/>
     <TopMenu/>
     <div className="main">
-    <MainArea/>
+    <MainArea />
     </div>
     </>
   )
