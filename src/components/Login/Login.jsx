@@ -42,7 +42,7 @@ const firebaseConfig = {
     return (
       <div className="login-container" style={styles.container}>
         <div className="login-form" style={styles.form}>
-          <h2>Login</h2>
+          <h2>Login</h2>  
           <form onSubmit={handleLogin}>
             <div style={styles.inputGroup}>
               <input
