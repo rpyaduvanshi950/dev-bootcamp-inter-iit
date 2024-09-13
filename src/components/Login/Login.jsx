@@ -68,7 +68,7 @@ const firebaseConfig = {
             <div style={styles.checkboxGroup}>
               <input type="checkbox" id="rememberMe" />
               <label htmlFor="rememberMe">Remember me</label>
-              <a href="#" style={styles.forgotPassword}>Forgot password?</a>
+              <a href="/" style={styles.forgotPassword}>Forgot password?</a>
             </div>
             <button type="submit" style={styles.button}>Log in</button>
           </form>
