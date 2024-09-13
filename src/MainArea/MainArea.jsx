@@ -82,7 +82,7 @@ import React, { useState, useEffect } from 'react';
 import axios from 'axios';
 import './MainArea.css';
 import Header from '../Header/Header';
-import Barchart from '../Barchart/Barchart';
+// import Barchart from '../Barchart/Barchart';
 import Piechart from '../Piechart/Piechart';
 import Linechart from '../Linechart/Linechart';
 import BarComponent from '../Barchart/BarComponent';
