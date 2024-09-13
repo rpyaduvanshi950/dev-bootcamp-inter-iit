@@ -1,5 +1,5 @@
 ## Used  API   polygon.io to fetch data for plots 
-## Hosted web link: [ Go to Hosted website](https://master--super-cucurucho-4f97ac.netlify.app/)
+## Hosted web link: [ Go to Hosted website](https://master--super-cucurucho-4f97ac.netlify.app/dashboard)
 ### Login Cred: 
 Email: admin@gmail.com
 Password : adminpass
