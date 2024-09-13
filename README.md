@@ -1,6 +1,8 @@
 ## Used  API   polygon.io to fetch data for plots 
 ## Hosted web link: [ Go to Hosted website](https://master--super-cucurucho-4f97ac.netlify.app/)
-
+### Login Cred: 
+-Email: admin@gmail.com
+-Password : adminpass
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
