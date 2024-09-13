@@ -1,5 +1,5 @@
 ## Used  API   polygon.io to fetch data for plots 
-## Hosted web link: [https://master--super-cucurucho-4f97ac.netlify.app/](https://master--super-cucurucho-4f97ac.netlify.app/)
+## Hosted web link: [ Go to Hosted website](https://master--super-cucurucho-4f97ac.netlify.app/)
 
 # Getting Started with Create React App
 
